@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Service
+Exec=blubb
+Comment=An example plugin for KDevelop
+Name=WindowViewer
+ServiceTypes=KDevelop/Plugin
+X-KDE-Library=kdevwindowviewer
+X-KDevelop-Version=17
+X-KDevelop-Category=Global
+X-KDE-PluginInfo-Name=kdevwindowviewer
+X-KDE-PluginInfo-Author=Nikolay S Nikolov
+X-KDE-PluginInfo-Category=Utilities
+X-KDevelop-Mode=GUI
